@@ -42,11 +42,6 @@ Análisis estratégico del mercado de videojuegos para identificar factores asoc
 - Se identificaron plataformas con mayor potencial para inversión publicitaria.
 
 ### Visualizaciones destacadas
-
-![Market Concentration](Captura de Pantalla 2026-03-01 a la(s) 12.26.53.png)
-
-🔗 [Ver proyecto](PEGA_AQUI_TU_LINK)
-
 ---
 
 ###  Revenue & Tariff Performance Analysis – Telecom
@@ -61,8 +56,6 @@ Comparación de planes tarifarios para determinar cuál genera mayor ingreso pro
 - Se identificó diferencia significativa en ingresos promedio.
 - Se detectaron patrones de consumo que impactan rentabilidad.
 - Recomendación de priorizar inversión publicitaria en el plan más rentable.
-
-🔗 [Ver proyecto](PEGA_AQUI_TU_LINK)
 
 ---
 
@@ -80,14 +73,14 @@ Análisis de mercado de empresas de transporte mediante consultas SQL.
 - La presencia de marcas tradicionales (“Yellow”, “Blue”) no garantiza mayor volumen de viajes.
 - Se identifican oportunidades estratégicas para nuevos competidores mediante análisis de demanda por compañía y segmentación del mercado.
 
-🔗 [Ver proyecto](PEGA_AQUI_TU_LINK)
 
 ---
 
 ## 📬 Contacto
 
-📎 LinkedIn: https://www.linkedin.com/in/TU-LINK  
-📧 Email: TU-EMAIL  
+📎 LinkedIn: linkedin.com/in/cristian-olague
+
+📧 Email: calexisor15@gmail.com  
 
 ---
 
