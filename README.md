@@ -41,7 +41,7 @@ Análisis estratégico del mercado de videojuegos para identificar factores asoc
 - Algunos géneros presentan mayor rentabilidad consistente.
 - Se identificaron plataformas con mayor potencial para inversión publicitaria.
 
-### Visualizaciones destacadas
+
 ---
 
 ###  Revenue & Tariff Performance Analysis – Telecom
